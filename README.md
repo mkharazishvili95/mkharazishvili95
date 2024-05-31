@@ -13,37 +13,17 @@ I am eager to leverage my technical experience, hard work, and passion for progr
 ## Projects
 
 ### Auction-Web-Api
-User registration, login, and auction functions. Users can place products on auction and other users can make bids. After the end of the auction period, the highest bidder wins the product and buys it. In the case of buying products, the seller is charged 85% of the maximum bid, and 15% of the commission goes to the company's account.
-
 ### Library-Management (API&MVC)
-ASP.NET Core Web API and MVC application that facilitates comprehensive library management. Users can add, retrieve, edit, and delete books seamlessly. The system ensures secure access with JWT Authentication and integrates social media functionalities using TweetinviAPI. Administrative features include user authentication and book status management. The system maintains data integrity and serialization, providing a reliable and streamlined user experience.
-
 ### Loan-Web-API
-ASP.NET Core Web API that facilitates loan applications and management. Users can apply for different types of loans in three currencies, with periods from 1 day to 1825 days, which the bank will issue at 12% if approved, and these loans can be cashed out by the user and the amount is transferred from the bank account to their account. Administrative features include user blocking, loan status management, and automatic processing of overdue loans.
-
 ### E-Commerce-API
-User registration, login, and shopping functions. Users can view products, make purchases, and manage their profile and purchases. Administrators can manage users, products, and purchases.
-
 ### Transact_Mvc
-User registration, login, and transact services. After registering and logging in, the user can deposit money into his account, and withdraw. He can also transfer money to another user using their Username.
-
 ### Pet-Shop-API
-User registration, login, and pet item shopping functions. Users can view products, make purchases, and manage their profile. Administrators can manage users, products, purchases, and payments.
-
 ### Money-Transfer-API
-User registration, login, and money transfer functions. Users can view their balance and transfer money to other users. Admins can block/unblock users and view user details.
-
 ### Event-Booking-API
-User registration, login, and event booking functions. After registering and logging in, users can view events added by the administrator and book them. Administrators can manage events including create, update, and delete. Users can also view their bookings and events.
-
 ### To-Do-List-API
-User registration, login, and to-do-list management functions. Users can add, edit, and mark to-do tasks as completed. To-do lists can be sorted by category and completion status.
-
 ### Car-Rental-Service-API
-User registration, login, and car rental services. After registering and logging in, users can view available cars and rent them. They can also add rental days to the rental car. Admin can cancel rent and the user automatically gets a refund.
-
 ### Loan-API
-User registration, login, and Loan functions. It offers users a loan service to apply and manage different types of loans. After registration, they can take a loan in 3 currencies: GEL, USD, EUR, for a period of 6 months to 5 years. Administrators can control and change loan details, as well as block and unblock users who will not be allowed to apply for new loans after blocking.
+
 
 ## Education
 
