@@ -24,6 +24,29 @@ I am eager to leverage my technical experience, hard work, and passion for progr
 ### [Car-Rental-Service-API](https://github.com/mkharazishvili95/Car-Rental-Service-API)
 ### [Loan-API](https://github.com/mkharazishvili95/Final_LoanAPI)
 
+## Skills
+- C#
+- ASP.NET Core Web API
+- ASP.NET Core MVC
+- Entity Framework Core
+- Dapper
+- ADO.NET
+- SQL Server
+- LINQ
+- NUnit / xUnit Test Projects
+- Git / GitHub
+- Postman / Swagger
+- Object-Oriented Programming (OOP)
+- SOLID Principles
+- REST API
+- ASP.NET Core Identity
+- Authentication.JWTBearer
+- FluentValidation
+- Password Hashing
+- HTML Basics
+- CSS Basics
+- JavaScript Basics
+
 
 ## Contact Me
 
