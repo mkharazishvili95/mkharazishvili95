@@ -13,8 +13,8 @@ I am eager to leverage my technical experience, hard work, and passion for progr
 ## Projects
 
 ### [Auction-Web-Api](https://github.com/mkharazishvili95/Auction-Web-Api)
-### [Library-Management (API&MVC)](https://github.com/mkharazishvili95/Transact_Mvc)
-### [Loan-Web-API](https://github.com/mkharazishvili95/Library-Api-Mvc)
+### [Library-Management (API&MVC)](https://github.com/mkharazishvili95/Library-Api-Mvc)
+### [Loan-Web-API](https://github.com/mkharazishvili95/Loan-Web-API)
 ### [E-Commerce-API](https://github.com/mkharazishvili95/E-Commerce-API)
 ### [Transact_Mvc](https://github.com/mkharazishvili95/Transact_Mvc)
 ### [Pet-Shop-API](https://github.com/mkharazishvili95/Pet-Shop-API)
