@@ -52,7 +52,6 @@ I am eager to leverage my technical experience, hard work, and passion for progr
 
 - 📧 Email: mkharazishvili1@gmail.com
 - 📞 Phone: +995 598 33 60 60
-- GitHub: [mkharazishvili95](https://github.com/mkharazishvili95)
 - LinkedIn: [Mikheil Kharazishvili](https://www.linkedin.com/in/mikheil-kharazishvili-b179a5269/)
 - GitLab: [mikheilkharazishvili1995](https://gitlab.com/mikheilkharazishvili1995)
 
