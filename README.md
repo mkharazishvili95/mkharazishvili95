@@ -12,41 +12,18 @@ I am eager to leverage my technical experience, hard work, and passion for progr
 
 ## Projects
 
-### Auction-Web-Api
-### Library-Management (API&MVC)
-### Loan-Web-API
-### E-Commerce-API
-### Transact_Mvc
-### Pet-Shop-API
-### Money-Transfer-API
-### Event-Booking-API
-### To-Do-List-API
-### Car-Rental-Service-API
-### Loan-API
+### [Auction-Web-Api](https://github.com/mkharazishvili95/Auction-Web-Api)
+### [Library-Management (API&MVC)](https://github.com/mkharazishvili95/Transact_Mvc)
+### [Loan-Web-API](https://github.com/mkharazishvili95/Library-Api-Mvc)
+### [E-Commerce-API](https://github.com/mkharazishvili95/E-Commerce-API)
+### [Transact_Mvc](https://github.com/mkharazishvili95/Transact_Mvc)
+### [Pet-Shop-API](https://github.com/mkharazishvili95/Pet-Shop-API)
+### [Money-Transfer-API](https://github.com/mkharazishvili95/MoneyTransfer-API)
+### [Event-Booking-API](https://github.com/mkharazishvili95/Event-Booking-API)
+### [To-Do-List-API](https://github.com/mkharazishvili95/To-Do-List-API)
+### [Car-Rental-Service-API](https://github.com/mkharazishvili95/Car-Rental-Service-API)
+### [Loan-API](https://github.com/mkharazishvili95/Final_LoanAPI)
 
-
-## Education
-
-- **Tbilisi School Of Communication** (2023-2023)
-  - .Net Development Course (C#, .Net, SQL, Git)
-  
-- **Udemy Course** (2022-2023)
-  - .Net Development Course (Asp .Net Core Web API, MVC)
-  
-- **freeCodeCamp** (2022-2022)
-  - HTML, CSS, JavaScript Basics
-  
-- **BitCamp - 2 Stages** (2022-2022)
-  - Two stages completed - Fundamentals of Programming and Web Technologies
-  
-- **British Centre** (2016-2017)
-  - English - C1
-  
-- **SDASU** (2017-2019)
-  - Master’s Degree in Business Administration
-  
-- **SDASU** (2013-2017)
-  - Bachelor’s Degree in Business Administration
 
 ## Contact Me
 
