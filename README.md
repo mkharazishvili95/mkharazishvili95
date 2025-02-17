@@ -28,6 +28,10 @@ I am eager to leverage my technical experience, hard work, and passion for progr
 - C#
 - ASP.NET Core Web API
 - ASP.NET Core MVC
+- Microservices
+- PostgreSQL
+- DDD
+- Mediator
 - Entity Framework Core
 - Dapper
 - ADO.NET
