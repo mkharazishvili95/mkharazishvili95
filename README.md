@@ -4,11 +4,9 @@ I'm a passionate .NET developer, with a strong foundation in C#, ASP.NET Core, S
 
 ## Profile
 
-As a passionate and detail-oriented .NET developer, I have dedicated the last two years to honing my skills through intensive learning and hands-on projects. My journey into programming is driven by my love of continuous development and problem-solving. I have successfully completed challenging courses and created several comprehensive projects that demonstrate my ability to tackle complex challenges and come up with innovative solutions.
+I am a motivated and detail-oriented .NET developer with experience in backend development and microservices architecture. My journey into programming began after a successful career in business management, where I developed strong analytical and problem-solving skills. Driven by a passion for technology, I dedicated two years to intensive learning, completing rigorous courses and building personal projects to gain hands-on experience.
+As a .NET Developer at Lemondo, I work extensively with C#, ASP.NET Core, SQL, and microservices, contributing to backend development, system integrations, and performance optimization. I am committed to continuous learning, and solving complex challenges. I thrive in dynamic environments and am eager to apply my expertise to build impactful software solutions.
 
-With a solid foundation in C#, ASP.NET Core, SQL, and other key technologies, I am committed to continuous learning and professional growth. My experience in business management, gained from working in my family's company for more than a decade, has equipped me with strong analytical and organizational skills that further enhance my approach to software development.
-
-I am eager to leverage my technical experience, hard work, and passion for programming to make an effective contribution as a junior .NET developer. I am detail-oriented, thrive in dynamic environments, and am enthusiastic about taking on new challenges in software development.
 
 ## Projects
 
