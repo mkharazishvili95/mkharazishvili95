@@ -9,7 +9,6 @@ As a .NET Developer at Lemondo, I work extensively with C#, ASP.NET Core, SQL, a
 
 
 ## Projects
-### [RealEstate](https://github.com/mkharazishvili95/RealEstate)
 ### [Auction-Web-Api](https://github.com/mkharazishvili95/Auction-Web-Api)
 ### [Library-Management (API&MVC)](https://github.com/mkharazishvili95/Library-Api-Mvc)
 ### [Loan-Web-API](https://github.com/mkharazishvili95/Loan-Web-API)
