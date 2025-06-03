@@ -9,6 +9,7 @@ As a .NET Developer at Lemondo, I work extensively with C#, ASP.NET Core, SQL, a
 
 
 ## Projects
+### [RealEstate](https://github.com/mkharazishvili95/RealEstate)
 ### [Auction-Web-Api](https://github.com/mkharazishvili95/Auction-Web-Api)
 ### [Library-Management (API&MVC)](https://github.com/mkharazishvili95/Library-Api-Mvc)
 ### [Loan-Web-API](https://github.com/mkharazishvili95/Loan-Web-API)
@@ -48,13 +49,4 @@ As a .NET Developer at Lemondo, I work extensively with C#, ASP.NET Core, SQL, a
 - CSS Basics
 - JavaScript Basics
 
-
-## Contact Me
-
-- 📧 Email: mkharazishvili1@gmail.com
-- 📞 Phone: +995 598 33 60 60
-- LinkedIn: [Mikheil Kharazishvili](https://www.linkedin.com/in/mikheil-kharazishvili-b179a5269/)
-- GitLab: [mikheilkharazishvili1995](https://gitlab.com/mikheilkharazishvili1995)
-
-Feel free to reach out if you'd like to collaborate or discuss any projects!
 
