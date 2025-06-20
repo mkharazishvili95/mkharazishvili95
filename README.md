@@ -1,4 +1,5 @@
-# Hi there 👋
+# 👋 Hi, I’m Mikheil Kharazishvili
+💻 .NET Backend Developer | Focused on Scalable Business Solutions
 
 ## Profile
 
