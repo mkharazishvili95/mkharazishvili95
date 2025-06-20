@@ -1,11 +1,10 @@
 # Hi there 👋
 
-I'm a passionate .NET developer, with a strong foundation in C#, ASP.NET Core, SQL, and other key technologies. Over the past few years, I've dedicated myself to continuous learning and hands-on projects, crafting innovative solutions to complex challenges.
-
 ## Profile
 
-I am a motivated and detail-oriented .NET developer with experience in backend development and microservices architecture. My journey into programming began after a successful career in business management, where I developed strong analytical and problem-solving skills. Driven by a passion for technology, I dedicated two years to intensive learning, completing rigorous courses and building personal projects to gain hands-on experience.
-As a .NET Developer at Lemondo, I work extensively with C#, ASP.NET Core, SQL, and microservices, contributing to backend development, system integrations, and performance optimization. I am committed to continuous learning, and solving complex challenges. I thrive in dynamic environments and am eager to apply my expertise to build impactful software solutions.
+After 12 years in business management and earning an MBA, I made a purposeful transition into software development — driven by a passion for solving business-critical challenges through clean code and scalable systems.
+As a .NET Backend Developer, I specialize in C#, ASP.NET Core, and SQL, focusing on building maintainable backend solutions using clean architecture and domain-driven design.
+With a blend of technical execution and business insight, I design systems that are efficient, scalable, and aligned with long-term goals. Known for fast learning, adaptability, and a strong sense of ownership, I thrive in collaborative, high-paced environments where technical excellence, impact, and continuous improvement matter most.
 
 
 ## Projects
@@ -23,30 +22,21 @@ As a .NET Developer at Lemondo, I work extensively with C#, ASP.NET Core, SQL, a
 ### [Loan-API](https://github.com/mkharazishvili95/Final_LoanAPI)
 
 ## Skills
-- C#
-- ASP.NET Core Web API
-- ASP.NET Core MVC
-- Microservices
-- PostgreSQL
-- DDD
-- Mediator
-- Entity Framework Core
-- Dapper
-- ADO.NET
-- SQL Server
-- LINQ
-- NUnit / xUnit Test Projects
-- Git / GitHub
-- Postman / Swagger
-- Object-Oriented Programming (OOP)
-- SOLID Principles
-- REST API
-- ASP.NET Core Identity
-- Authentication.JWTBearer
-- FluentValidation
-- Password Hashing
-- HTML Basics
-- CSS Basics
-- JavaScript Basics
+- C#  
+- ASP.NET Core (Web API, MVC)  
+- RESTful API Design  
+- Entity Framework Core, Dapper, ADO.NET  
+- SQL Server, PostgreSQL
+- Clean Architecture  
+- Domain-Driven Design (DDD)  
+- CQRS (with MediatR)  
+- Microservices Architecture  
+- OAuth2  
+- RabbitMQ  
+- Hangfire – background and recurring jobs  
+- Unit Testing (xUnit, NUnit)  
+- Git  
+- API Testing Tools (Postman, Swagger)
+
 
 
